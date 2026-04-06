@@ -1,6 +1,6 @@
 # Chandra Shekkharan
 
-AI Prompt Evaluation Engineer focused on LLM quality, evaluation, and workflow automation.
+AI Prompt Evaluation Engineer | LLM Quality & Evaluation | Workflow Automation
 
 ---
 
@@ -24,25 +24,10 @@ OpenAI / ChatGPT | n8n | REST APIs | Webhooks | Google Sheets | Power BI
 ---
 
 ## Background
-Built hands-on prompt evaluation workflows and automated testing pipelines to improve response reliability, consistency, and quality.
+Hands-on experience building prompt evaluation workflows, testing LLM outputs, and improving response consistency, reliability, and quality through structured evaluation approaches.
 
 ---
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/cshekharan
 - Email: cshekkharan@gmail.com
-
-<!--
-**cshekkharan/cshekkharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
